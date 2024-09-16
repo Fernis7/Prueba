@@ -1,0 +1,19 @@
+{
+    "Hello World HTML Snippet": {
+        "prefix": "html Fernis",
+        "body": [
+            "<!DOCTYPE html>",
+            "<html lang=\"en\">",
+            "<head>",
+            "\t<meta charset=\"UTF-8\">",
+            "\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+            "\t<title>${1:Hello World}</title>",
+            "</head>",
+            "<body>",
+            "\t<h1>${2:Hello World}</h1>",
+            "</body>",
+            "</html>"
+        ],
+        "description": "Basic Hello World HTML snippet"
+    }
+}
